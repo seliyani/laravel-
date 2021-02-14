@@ -10,7 +10,7 @@ class Kasus2 extends Model
     use HasFactory;
 
     protected $table = "kasus2s";
-    protected $fillable = ['positif','meninggal','sembuh','tanggal','id_rw'];
+    protected $fillable = ['jumlah_positif','jumlah_meninggal','jumlah_sembuh','tanggal','id_rw'];
     public $timestamps = true;
 
     public function rw(){

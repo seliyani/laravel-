@@ -52,7 +52,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <!---<img class="masthead-avatar mb-5" src="assets/img/virus2.JPG" alt="" />--->
+                <img class="masthead-avatar mb-5" src="assets/img/perempuan.PNG" alt="" />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Kawal Corona Virus</h1>
                 <!-- Icon Divider-->
@@ -62,7 +62,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">^_^Perkembangan Virus Corona Di Indonesia^_^</p>
+                <p class="masthead-subheading font-weight-light mb-0">Perkembangan Virus Corona Di Indonesia</p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -166,7 +166,7 @@
                     <h3 class="card-title">Data Kasus Corona virus Global</h3>
                     </div>
                      <div class="card-body" >
-                         <div style="height:600px;overflow:auto;margin-right:15px;">
+                         <div style="height:800px;overflow:auto;margin-right:15px;">
                                  <table class="table table-striped"  fixed-header  >
                                  <thead>
                                      <tr>
@@ -208,7 +208,7 @@
                     <h3>Data Kasus Corona virus Di Provinsi</h3>
                     </div>
                      <div class="card-body" >
-                         <div style="height:600px;overflow:auto;margin-right:15px;">
+                         <div style="height:800px;overflow:auto;margin-right:15px;">
                                  <table class="table table-striped"  fixed-header  >
                                  <thead>
                                  <tr>
@@ -261,11 +261,12 @@
 		            <p>Penyakit karena infeksi virus ini disebut COVID-19. Virus Corona bisa menyebabkan gangguan ringan pada sistem pernapasan, infeksi paru-paru yang berat, hingga kematian.</p></h4>
 		          </div>
                 </div>
-                <span class="subheading">Cara Menghindar Dari Virus Corona :</span>
+                <h2><span class="subheading">Cara Menghindar Dari Virus Corona :</span><h2>
 		    		<div class="row">
 		          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
 		            <div class="block-18 text-center p-4 mb-4 align-self-stretch d-flex">
 		              <div class="text">
+                      <img style="width: 120px; height:120px" src="assets/img/cuci tangan.PNG"/>
 		                <span>MENCUCI TANGAN</span>
 		              </div>
 		            </div>
@@ -273,6 +274,7 @@
 		          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
 		            <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
 		              <div class="text">
+                      <img style="width: 120px; height:120px" src="assets/img/jagajarak.PNG"/>
 		                <span>MENJAGA JARAK</span>
 		              </div>
 		            </div>
@@ -280,6 +282,7 @@
 		          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate d-flex">
 		            <div class="block-18 text-center py-4 px-3 mb-4 align-self-stretch d-flex">
 		              <div class="text">
+                      <img style="width: 120px; height:120px" src="assets/img/masker2.PNG"/>
 		                <span>MEMAKAI MASKER</span>
 		              </div>
 		            </div>
@@ -365,9 +368,7 @@
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4">About Freelancer</h4>
                         <p class="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
-                            .
+                         created by Seli Nurfitriyani
                         </p>
                     </div>
                 </div>
@@ -392,7 +393,7 @@
                     <div class="modal-body text-center">
                         <div class="container">
                             <div class="row justify-content-center">
-                                <div class="col-lg-8">
+                                <div class="col-lg-12">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Log Cabin</h2>
                                     <!-- Icon Divider-->
@@ -460,7 +461,7 @@
                     <div class="modal-body text-center">
                         <div class="container">
                             <div class="row justify-content-center">
-                                <div class="col-lg-8">
+                                <div class="col-lg-12">
                                     <!-- Portfolio Modal - Title-->
                                     <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Circus Tent</h2>
                                     <!-- Icon Divider-->

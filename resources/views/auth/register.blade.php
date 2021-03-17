@@ -17,7 +17,7 @@
 <body class="hold-transition register-page">
 <div class="register-box">
   <div class="register-logo">
-    <a href="{{('register')}}"><b>Admin</b>LTE</a>
+    <a href="{{('register')}}"><b>Kawal</b>Corona</a>
   </div>
 
   <div class="card">
@@ -90,17 +90,6 @@
         </div>
       </form>
 
-      <div class="social-auth-links text-center">
-        <p>- OR -</p>
-        <a href="#" class="btn btn-block btn-primary">
-          <i class="fab fa-facebook mr-2"></i>
-          Sign up using Facebook
-        </a>
-        <a href="#" class="btn btn-block btn-danger">
-          <i class="fab fa-google-plus mr-2"></i>
-          Sign up using Google+
-        </a>
-      </div>
 
       <a href="login.html" class="text-center">I already have a membership</a>
     </div>

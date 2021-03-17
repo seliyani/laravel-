@@ -528,7 +528,6 @@ class KotaSeeder extends Seeder
             ['id' => '9436','kode_kota' => '9436','id_provinsi' => '94','nama_kota' => 'KABUPATEN DEIYAI'],
             ['id' => '9471','kode_kota' => '9471','id_provinsi' => '94','nama_kota' => 'KOTA JAYAPURA'],
 
-            // ['id' => '','kode_kota' => '','id_provinsi' => '','nama_kota' => ' '],
 
 
 

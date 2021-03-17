@@ -14,7 +14,7 @@ class KecamatanSeeder extends Seeder
      */
     public function run()
     {
-        $kecamatans = [
+        DB::table('kecamatans')->insert([
         	['id' => 1101010, 'kode_kecamatan' => 1101010, 'id_kota' => 1101, 'nama_kecamatan' => "TEUPAH SELATAN"],
 			['id' => 1101020, 'kode_kecamatan' => 1101020, 'id_kota' => 1101, 'nama_kecamatan' => "SIMEULUE TIMUR"],
 			['id' => 1101021, 'kode_kecamatan' => 1101021, 'id_kota' => 1101, 'nama_kecamatan' => "TEUPAH BARAT"],
@@ -7116,8 +7116,7 @@ class KecamatanSeeder extends Seeder
 			['id' => 9471021, 'kode_kecamatan' => 9471021, 'id_kota' => "9471", 'nama_kecamatan' => "HERAM"],
 			['id' => 9471030, 'kode_kecamatan' => 9471030, 'id_kota' => "9471", 'nama_kecamatan' => "JAYAPURA SELATAN"],
 			['id' => 9471040, 'kode_kecamatan' => 9471040, 'id_kota' => "9471", 'nama_kecamatan' => "JAYAPURA UTARA"],
-        ];
-
-        DB::table('kecamatans')->insert($kecamatans);
+      
+            ]);
     }
 }

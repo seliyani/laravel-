@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\DB ;
 
 class Kota extends Model
 {
-        protected $fillable = ['id_provinsi', 'kode_kota', 'nama_kota'];
+        protected $fillable = ['id_provinsi','kode_kota','nama_kota'];
         protected $table = "kotas";
         public $timestemps = true;
 
